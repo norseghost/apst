@@ -6,3 +6,7 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	0.0.0	/0bcf43b0/
+Empiri	notes/brainstorm.md	/^## Empiri$/;"	s
+Foreløbig idé:	notes/brainstorm.md	/^# Foreløbig idé:$/;"	c
+Opgaven	notes/brainstorm.md	/^# Opgaven$/;"	c
+Teori	notes/brainstorm.md	/^## Teori$/;"	s
