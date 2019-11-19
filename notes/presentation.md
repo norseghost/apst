@@ -23,3 +23,14 @@ Styringsmekanismer og principper ligger frit tilgængeligt online.og jeg har til
 og med en begrundelse for, hvorfor I mener, det er en velegnet metode til at undersøge dette spørgsmål på.
 
 Dette kan allerhøjest være for et pilotstudie at betragte; men man kan få en pegepind. Ved at se på forskelle mellem faktiske styringsmekanismer og pædagoernes oplevelser, kan man få indigter i hvordan en professionel identitet som pædagog konstrueres
+
+# Notes from class discussion
+
+- expliciter peronlig bias. Mit observatørståsted er i høj grad indefra - *mesearch* frem for *research* om man vil.
+- styringsmekanismer er også:
+    - pædagogiske retningslinjer - fx gentle teaching og neuropædagogik
+        - men disse er måske mere interne/internaliserede?
+- evt. se på umyndiggørelse af pædagogerne?
+- relevans: der er et narrativ om, at kerneopgaven skrider og skubbes ud til fordel for dokumentationskrav med videre
+    - for hvis skyld dokumenteres der?
+
