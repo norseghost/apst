@@ -40,6 +40,13 @@ explicit - lovgivning/procedurerc
 implicit - "systemet der kigger over skuldereren"
 (kort) historisk kontrast
 
+kortlægning af styringsmekanismer
+
+- tf_idf til, at se hvor meget dokumenterne ligner
+- sentiment analysis til at udlede holdninger?
+- topic modeling/clustering til at undersøge hvilke emner der diskuteres?
+
+
 Interviewe kollegaer
 - AMB/Dorthe C (lang erfaring)
 - Emil (nyuddannet merit)
