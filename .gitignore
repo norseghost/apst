@@ -1,6 +1,9 @@
 # I don't care about the output PDF
-eksamen.pdf
-eksamen.txt
+*.pdf
+*.txt
+*.docx*
+tags
+
 # or the literature
 litteratur/
 # dont keep non-clean data

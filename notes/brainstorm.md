@@ -42,7 +42,7 @@ implicit - "systemet der kigger over skuldereren"
 
 kortlægning af styringsmekanismer
 
-- tf_idf til, at se hvor meget dokumenterne ligner
+- tf_idf til, at se hvor meget dokumenterne ligner:
 - sentiment analysis til at udlede holdninger?
 - topic modeling/clustering til at undersøge hvilke emner der diskuteres?
 
