@@ -119,7 +119,7 @@ de forskellige fagligheder skal byde til, men samtidig sørge for, atr ikke domi
 
 patntialiseret faglighed s 313
 
-kerneomgavens formulering medfører institutiones uklarhed
+kerneopgavens formulering medfører institutiones uklarhed
 
 (efterse litteraturliste for mere)
 
@@ -127,7 +127,7 @@ kerneomgavens formulering medfører institutiones uklarhed
 Hansbøl & Krejsler konstruktionen af professionel identitet
 
 "erhvervsgrupper der aspirerer til professionsstatus" s. 19
-hvori står den profescionelle identitet?
+hvori står den professionelle identitet?
 - akademisering
 - professinosbachelorer
 - mm
@@ -173,7 +173,7 @@ mere individuel professionsstil s 33
 
 gouvernementalité s 34, 35
 
-social analyse - skal forholde sig til den anden ud fra sin gøren; gør noget, der altid kunne være anderliedes
+social analyse - skal forholde sig til den anden ud fra sin gøren; gør noget, der altid kunne være anderledes
 
 76 → specialister med skøn
 
@@ -187,7 +187,7 @@ borger til kunde s 42 (hvem er kunden på Skovbo?)
 
 viden en vare s 46
 
-kulturarv s 47 → formidling af profesionens kulturarv
+kulturarv s 47 → formidling af professionens kulturarv
 
 læring → også som pædagog; efteruddannelser og kurser (GT, neuro) → gør noget mere end det åbenlyse
 
@@ -195,11 +195,11 @@ lzring so irritation s 51
 
 konklusion s 52-53
 
-nytten af offentlig proiduktion skal dokumenteres
+nytten af offentlig produktion skal dokumenteres
 
 mulige problematikker s 53
 - særlige vidensformer
 - krav til at koble professionel faglighed og egen faglighed (AMB?dorte?)
-- er der en særlig afgrænsning for de nye prfessioner i en funktionalistisk tradidtion
+- er der en særlig afgrænsning for de nye professioner i en funktionalistisk tradition
 
 
